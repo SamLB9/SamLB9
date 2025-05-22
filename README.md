@@ -4,7 +4,7 @@ I'm an AI enthusiast, data scientist, and startup co-founder with hands-on exper
 
 - 🎓 MSc in Artificial Intelligence @ University of Edinburgh  
 - 🚀 Co-founder & CTO at JEC — Matching student consultants and Experts with SMEs  
-- 💼 Actively seeking full-time opportunities in the US or Israel from **September 2025** (sponsorship needed to work in the US)
+- 💼 Actively seeking full-time opportunities in the US or Israel starting September 2025 as a Data Scientist or AI Engineer. (Sponsorship required for US-based roles.)
 
 ---
 
