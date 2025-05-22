@@ -23,8 +23,9 @@ I'm an AI enthusiast, data scientist, and startup co-founder with hands-on exper
 
 ## 🌱 Recent Projects
 
-- 🔗 [RecipeRec+: Graph-based Recipe Recommender](https://github.com/sachinmloecher/AugmentedRecipeRecommendations)  
 - 🐶 [Semantic Segmentation on Oxford-IIIT Pet Dataset](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset)  
+- 💬 [Trigram_LM: smoothed language-model toolkit](https://github.com/jakedugi/trigram_lm)
+- 🔗 [RecipeRec+: Graph-based Recipe Recommender](https://github.com/sachinmloecher/AugmentedRecipeRecommendations)  
 - 🧠 [SQL Query Processor (Java)](https://github.com/SamLB9/Implementation-of-a-SQL-query-processor)
 
 ---
