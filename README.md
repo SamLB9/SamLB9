@@ -22,15 +22,6 @@ I'm an AI enthusiast, data scientist, and startup co-founder with hands-on exper
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:** Python, SQL, C, Java (basic)  
-**Frameworks:** PyTorch, TensorFlow, HuggingFace, Scikit-learn  
-**Tools:** Docker, Git, Power BI, VS Code  
-**Specialties:** Recommender Systems, NLP, Computer Vision, Generative AI
-
----
-
 ## 🌱 Recent Projects
 
 - 🔗 [RecipeRec+: Graph-based Recipe Recommender](https://github.com/sachinmloecher/AugmentedRecipeRecommendations)  
