@@ -10,7 +10,7 @@ I'm an AI enthusiast, data scientist, and startup co-founder with hands-on exper
 
 ## 📄 Resume
 
-- [View my resume (PDF)](https://your-link-to-resume.com) <!-- replace with actual link -->
+- [View my resume (PDF)]([https://your-link-to-resume.com](https://drive.google.com/file/d/1POGQ7i4bWaDwvifnBrKaDZnFcqDRV_tz/view?usp=sharing)) <!-- replace with actual link -->
 
 ---
 
