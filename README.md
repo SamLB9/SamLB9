@@ -3,8 +3,8 @@
 I'm an AI enthusiast, data scientist, and startup co-founder with hands-on experience in building recommender systems, NLP tools, and real-world consulting platforms.
 
 - 🎓 MSc in Artificial Intelligence @ University of Edinburgh  
-- 🚀 Co-founder & CTO at JEC — Matching student consultants with SMEs  
-- 💼 Actively seeking full-time opportunities in the US from **September 2025** (sponsorship required)
+- 🚀 Co-founder & CTO at JEC — Matching student consultants and Experts with SMEs  
+- 💼 Actively seeking full-time opportunities in the US or Israel from **September 2025** (sponsorship needed to work in the US)
 
 ---
 
