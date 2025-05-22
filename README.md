@@ -17,8 +17,7 @@ I'm an AI enthusiast, data scientist, and startup co-founder with hands-on exper
 ## 📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/sam-laborde-balen-1b3907236) · 
-[Email](mailto:labordebalensam@gmail.com) ·  
-- 💻 GitHub Projects: [Explore my repositories](https://github.com/SamLB9?tab=repositories)
+[Email](mailto:labordebalensam@gmail.com)
 
 ---
 
