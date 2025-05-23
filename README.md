@@ -17,7 +17,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 ## 📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/sam-laborde-balen-1b3907236) · 
-[Email](mailto:labordebalensam@gmail.com)
+[Email](mailto:sam@laborde-balen.com)
 
 ---
 
