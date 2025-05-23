@@ -10,7 +10,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ## 📄 Resume
 
-- [View my resume (PDF)](https://drive.google.com/file/d/1FO3c_-jH2iJ5ofIcK1epf5NBaQR_6k7G/view?usp=sharing)
+- [View my resume (PDF)](https://drive.google.com/file/d/1Vp8Y1u-ZIWaaIwIscMlhjZbtmQuy1jml/view?usp=sharing)
 
 ---
 
