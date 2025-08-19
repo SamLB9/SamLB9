@@ -51,16 +51,16 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 **MSc in Artificial Intelligence**  
 *Sep 2024 – Sep 2025*  
 
-- Focus: Machine Learning, Natural Language Processing, Computer Vision, Data Science  
+- Focus: Machine Learning, Natural Language Processing, Computer Vision, Databases  
 - Dissertation: *Comparative Analysis of GAN- and Diffusion-Generated Images for Generalizable Deepfake Detection*  
 
----
+----
 
-### 🎓 University Paris Nanterre — *Paris, France*  
-**Double Bachelor’s Degree in Mathematics & Computer Science, and Economics**  
+### 🎓 University Paris X — *Paris, France*  
+**BSc Data Science**  
 *Sep 2020 – Jun 2023*  
 
-- Combined curriculum bridging quantitative analysis, software development, and economic theory  
+- Focus: Probability & Statistics, Machine Learning, Linear Algebra, Python Programming, Algorithms, Data Visualization, SQL
 - Built a strong foundation in statistics, programming, and data-driven problem solving  
 
 ---
