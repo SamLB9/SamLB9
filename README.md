@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SamLB9&color=blue&style=flat)
 
-# 👋 Hi, I'm Sam Laborde-Balen
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3500&width=435&lines=AI+Engineer;Hi+there%2C+I'm+Sam+Laborde-Balen+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 AI enthusiast, data scientist, and startup co-founder with hands-on experience in building recommender systems, NLP tools, CV projects and real-world consulting platforms.
 
