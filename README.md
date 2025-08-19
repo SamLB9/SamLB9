@@ -78,8 +78,6 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Pitched JEC at SME congress and secured partnerships  
 - Oversaw 12+ consulting missions with student consultants and expert mentors  
 
-___
-
 ### Juno Journey — *AI Engineer Intern*  
 **Aug 2023 – Jan 2024**  
 *Startup developing AI-driven platforms for employee growth and learning*  
@@ -88,16 +86,12 @@ ___
 - Developed NLP-based translation tools to support multilingual content  
 - Contributed to growth hacking initiatives and automated content scraping  
 
-***
-
 ### EasyMedStat — *Data Researcher Intern*  
 **May 2023 – Aug 2023**  
 *French healthtech startup providing statistical solutions for clinical research*  
 
 - Researched and benchmarked [imputation methods](https://github.com/SamLB9/EMS_research_imputation-models), ML models, and [explainability techniques](https://github.com/SamLB9/AI_Explainability)  
 - Provided insights to enhance the platform’s data reliability and transparency  
-
----
 
 ### Revelator — *Data Analyst Intern*  
 **May 2021 – Aug 2021**  
