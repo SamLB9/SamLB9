@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3500&width=435&lines=AI+Engineer;Hi+there%2C+I'm+Sam+Laborde-Balen+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamLB9&show_icons=true&theme=radical)
+
+---
+
+ ## 🚀 About Me 
+
 AI enthusiast, data scientist, and startup co-founder with hands-on experience in building recommender systems, NLP tools, CV projects and real-world consulting platforms.
 
 - 🎓 MSc in Artificial Intelligence @ University of Edinburgh  
