@@ -18,7 +18,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ## 📫 How to reach me?
 
-- **LinkedIn**:(https://www.linkedin.com/in/sam-laborde-balen-1b3907236) · 
+- **LinkedIn**: [linkedin.com/in/sam-laborde-balen](https://www.linkedin.com/in/sam-laborde-balen-1b3907236)
 - **Email**: [sam@laborde-balen.com](mailto:sam@laborde-balen.com)
 
 ---
