@@ -26,7 +26,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 ## 🌟 Featured Projects
 
 - 🎓 [MSc Dissertation – Comparative Analysis of GAN- and Diffusion-Generated Images for Generalizable Deepfake Detection](https://github.com/SamLB9/GAN-vs.-Diffusion-Images): My MSc dissertation at the University of Edinburgh (2024–2025). I explored statistical signatures of synthetic images (color, noise, frequency, texture) across six generative models and real datasets. Results show that diffusion-based training and frequency-domain features improve cross-architecture generalization, paving the way for more robust, lightweight deepfake detection methods.
-- 🐶 [Semantic Segmentation on Oxford-IIIT Pet Dataset](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset)  
+- 🐶 [Semantic Segmentation on Oxford-IIIT Pet Dataset](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset) - Evaluated UNet, Autoencoder, CLIP-based, and Prompt-guided architectures on a standardized benchmark. Findings show CLIP-based segmentation leads in accuracy and robustness, UNet remains efficient for lightweight deployment, and prompt-guided models excel in interactive annotation, highlighting key trade-offs between performance, scalability, and usability in real-world vision tasks.
 - 🔗 [RecipeRec+: Graph-based Recipe Recommender](https://github.com/SamLB9/AugmentedRecipeRecommendations)
 - 🧠 [SQL Query Processor (Java)](https://github.com/SamLB9/Implementation-of-a-SQL-query-processor)
 - 💬 [Trigram_LM: smoothed language-model toolkit](https://github.com/SamLB9/trigram_lm)
