@@ -48,20 +48,16 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 ## 📚 My Education
 
 ### University of Edinburgh
-
-**MSc in Artificial Intelligence**
-
+**MSc in Artificial Intelligence** 
 _Edinburgh_, _UK_
-
 _Sep_ _2024_- _Sep_ _2025
 
 
 ### University Paris-Nanterre
+**Double Bachelor Degree in Mathematics & Computer Science and Economics** 
+_Paris_, _France_ 
+_Sep_ _2020_ - _Jun_ _2023_ 
 
-**Double Bachelor Degree in Mathematics & Computer Science and Economics**
-
-_Paris_, _France_
-
-_Sep_ _2020_ - _Jun_ _2023
+---
 
 _Thanks for visiting!_
