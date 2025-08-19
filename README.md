@@ -70,31 +70,42 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ## 💼 My Experiences
 
-### JEC - *Co-founder & CTO* 
-**_Feb_ _2024_ - _Present_**
-*A student/expert matching platform offering premium consulting services for SMEs*
+### JEC — *Co-founder & CTO*  
+**Feb 2024 – Present**  
+*A student–expert matching platform delivering premium consulting services for SMEs*  
 
-- Built business plan, launched fullstack platform, and managed dev team
-- Pitched JEC at SME congress & onboarded partners
-- Led 12+ consulting missions
+- Designed business plan, launched a full-stack consulting platform, and managed the developer team  
+- Pitched JEC at SME congress and secured partnerships  
+- Oversaw 12+ consulting missions with student consultants and expert mentors  
 
-### Juno Joruney - *AI Engineer Intern* 
-**_Aug_ _2023_ - _Jan_ _2024_**
-*Startup building AI-driven platforms for employee development*
+---
 
-- Built a hybrid recommendation system and NLP translation tools
-- Performed growth hacking and content scraping
+### Juno Journey — *AI Engineer Intern*  
+**Aug 2023 – Jan 2024**  
+*Startup developing AI-driven platforms for employee growth and learning*  
 
-### EasyMedStat - *Data Researcher Intern*
-**_May_ _2023_ - _Aug_ _2023_**
-*French healthtech startup offering statistical tools for clinical research*
+- Built a hybrid recommendation system for personalized learning pathways  
+- Developed NLP-based translation tools to support multilingual content  
+- Contributed to growth hacking initiatives and automated content scraping  
 
-- Researched [ML models, imputation methods](https://github.com/SamLB9/EMS_research_imputation-models), and [explainability](https://github.com/SamLB9/AI_Explainability)
+---
 
-### Revelator - *Data Analyst Intern*
-**_May_ _2021_ - _Aug_ _2021_** 
-*US-based music tech company providing data analytics and business solutions for labels and artists*
+### EasyMedStat — *Data Researcher Intern*  
+**May 2023 – Aug 2023**  
+*French healthtech startup providing statistical solutions for clinical research*  
 
-- Built dashboards in Power BI; learned and applied DAX
+- Researched and benchmarked [imputation methods](https://github.com/SamLB9/EMS_research_imputation-models), ML models, and [explainability techniques](https://github.com/SamLB9/AI_Explainability)  
+- Provided insights to enhance the platform’s data reliability and transparency  
+
+---
+
+### Revelator — *Data Analyst Intern*  
+**May 2021 – Aug 2021**  
+*US-based music tech company offering analytics and business tools for labels and artists*  
+
+- Built interactive Power BI dashboards to monitor key business KPIs  
+- Applied DAX formulas to optimize reporting and performance tracking  
+
+---
 
 _Thanks for visiting!_
