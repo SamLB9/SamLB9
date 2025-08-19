@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SamLB9&color=blue&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3500&width=435&lines=Hi+there%2C+I'm+Sam+Laborde-Balen;AI+Engineer+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3500&width=435&lines=Hi+there%2C+I'm+Sam+Laborde-Balen+%F0%9F%91%8B;AI+Engineer)](https://git.io/typing-svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SamLB9&theme=dark&hide_border=false)
 
