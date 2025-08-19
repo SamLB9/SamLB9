@@ -21,7 +21,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
-## 🌱 Recent Projects
+## 🌟 Featured Projects
 
 - 🎓 [MSc Dissertation – Comparative Analysis of GAN- and Diffusion-Generated Images for Generalizable Deepfake Detection](https://github.com/SamLB9/GAN-vs.-Diffusion-Images)
 - 🐶 [Semantic Segmentation on Oxford-IIIT Pet Dataset](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset)  
