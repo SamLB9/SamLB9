@@ -68,4 +68,33 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
+## 💼 My Experiences
+
+### Co-founder & CTO - JEC 
+*_Feb_ _2024_ - _Present_*
+**A student/expert matching platform offering premium consulting services for SMEs**
+
+- Built business plan, launched fullstack platform, and managed dev team
+- Pitched JEC at SME congress & onboarded partners
+- Led 12+ consulting missions
+
+### AI Engineer Intern - Juno Joruney 
+*_Aug_ _2023_ - _Jan_ _2024_*
+**Startup building AI-driven platforms for employee development**
+
+- Built a hybrid recommendation system and NLP translation tools
+- Performed growth hacking and content scraping
+
+### Data Researcher Intern - EasyMedStat 
+*_May_ _2023_ - _Aug_ _2023_*
+**French healthtech startup offering statistical tools for clinical research**
+
+- Researched [ML models, imputation methods](https://github.com/SamLB9/EMS_research_imputation-models), and [explainability](https://github.com/SamLB9/AI_Explainability)
+
+### Data Analyst Intern - Revelator
+*_May_ _2021_ - _Aug_ _2021_*
+**US-based music tech company providing data analytics and business solutions for labels and artists**
+
+- Built dashboards in Power BI; learned and applied DAX
+
 _Thanks for visiting!_
