@@ -54,7 +54,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Focus: Machine Learning, Natural Language Processing, Computer Vision, Databases  
 - Dissertation: *Comparative Analysis of GAN- and Diffusion-Generated Images for Generalizable Deepfake Detection*  
 
-----
+--
 
 ### 🎓 University Paris X — *Paris, France*  
 **BSc Data Science**  
