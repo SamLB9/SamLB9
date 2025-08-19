@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SamLB9&color=blue&style=flat)
+
 # 👋 Hi, I'm Sam Laborde-Balen
 
 AI enthusiast, data scientist, and startup co-founder with hands-on experience in building recommender systems, NLP tools, CV projects and real-world consulting platforms.
