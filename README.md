@@ -90,7 +90,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 **May 2023 – Aug 2023**  
 *French healthtech startup providing statistical solutions for clinical research*  
 
-- Researched and benchmarked [imputation methods](https://github.com/SamLB9/EMS_research_imputation-models), ML models, and [explainability techniques](https://github.com/SamLB9/AI_Explainability)  
+- Researched and benchmarked [imputation strategies, ML models](https://github.com/SamLB9/EMS_research_imputation-models), and [explainability techniques](https://github.com/SamLB9/AI_Explainability)  
 - Provided insights to enhance the platform’s data reliability and transparency  
 
 ### Revelator — *Data Analyst Intern*  
