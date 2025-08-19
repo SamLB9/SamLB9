@@ -27,6 +27,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - 💬 [Trigram_LM: smoothed language-model toolkit](https://github.com/SamLB9/trigram_lm)
 - 🔗 [RecipeRec+: Graph-based Recipe Recommender](https://github.com/SamLB9/AugmentedRecipeRecommendations)
 - 🧠 [SQL Query Processor (Java)](https://github.com/SamLB9/Implementation-of-a-SQL-query-processor)
+- 🎓 [MSc Dissertation – Comparative Analysis of GAN- and Diffusion-Generated Images for Generalizable Deepfake Detection](https://github.com/SamLB9/GAN-vs.-Diffusion-Images)
 
 ---
 
