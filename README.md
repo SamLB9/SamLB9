@@ -102,4 +102,4 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
-_Thanks for visiting!_
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=435&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8)](https://git.io/typing-svg)
