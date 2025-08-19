@@ -16,6 +16,24 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
+## 🧠 My Tech Stack
+
+**Languages:** Python, SQL, NoSQL, Java, C, HTML/CSS, MATLAB, DAX  
+
+**Frameworks & APIs:** RESTful API (FastAPI / Flask), Docker  
+
+**Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-Learn, UMAP, imbalanced-learn  
+
+**Computer Vision & Signal Processing:** OpenCV, scikit-image, Pillow, PyWavelets  
+
+**Databases & ORM:** PostgreSQL, MySQL, SQLite, MongoDB, SQLAlchemy  
+
+**Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, SciPy  
+
+**Developer Tools & Cloud:** Git, GitHub, AWS, Google Cloud SDK, Azure, VS Code, Cursor, Jupyter Notebook  
+
+---
+
 ## 📄 Resume
 
 - [View my resume (PDF)](https://drive.google.com/file/d/1Vp8Y1u-ZIWaaIwIscMlhjZbtmQuy1jml/view?usp=sharing)
