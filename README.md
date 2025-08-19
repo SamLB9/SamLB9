@@ -47,16 +47,21 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ## 📚 My Education
 
-### University of Edinburgh
-**MSc in Artificial Intelligence** 
-_Edinburgh_, _UK_
-_Sep_ _2024_- _Sep_ _2025
+### 🎓 University of Edinburgh — *Edinburgh, UK*  
+**MSc in Artificial Intelligence**  
+*Sep 2024 – Sep 2025*  
 
+- Focus: Machine Learning, Natural Language Processing, Computer Vision, Data Science  
+- Dissertation: *Comparative Analysis of GAN- and Diffusion-Generated Images for Generalizable Deepfake Detection*  
 
-### University Paris-Nanterre
-**Double Bachelor Degree in Mathematics & Computer Science and Economics** 
-_Paris_, _France_ 
-_Sep_ _2020_ - _Jun_ _2023_ 
+---
+
+### 🎓 University Paris Nanterre — *Paris, France*  
+**Double Bachelor’s Degree in Mathematics & Computer Science, and Economics**  
+*Sep 2020 – Jun 2023*  
+
+- Combined curriculum bridging quantitative analysis, software development, and economic theory  
+- Built a strong foundation in statistics, programming, and data-driven problem solving  
 
 ---
 
