@@ -47,7 +47,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ## 📚 My Education
 
-### 🎓 University of Edinburgh — *Edinburgh, UK*  
+### University of Edinburgh — *Edinburgh, UK*  
 **MSc in Artificial Intelligence**  
 *Sep 2024 – Sep 2025*  
 
@@ -56,12 +56,14 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 
 
-### 🎓 University Paris X — *Paris, France*  
+### University Paris X — *Paris, France*  
 **BSc Data Science**  
 *Sep 2020 – Jun 2023*  
 
 - Focus: Probability & Statistics, Machine Learning, Linear Algebra, Python Programming, Algorithms, Data Visualization, SQL
-- Built a strong foundation in statistics, programming, and data-driven problem solving  
+- Built a strong foundation in statistics, programming, and data-driven problem solving
+
+### Certifications: [IBM Python for Data Science and AI](https://drive.google.com/file/d/1YrzaJ5OReEe7ajRXFo73qgIKAFbOLQ8M/view?usp=sharing)
 
 ---
 
