@@ -78,7 +78,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Pitched JEC at SME congress and secured partnerships  
 - Oversaw 12+ consulting missions with student consultants and expert mentors  
 
----
+___
 
 ### Juno Journey — *AI Engineer Intern*  
 **Aug 2023 – Jan 2024**  
@@ -88,7 +88,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Developed NLP-based translation tools to support multilingual content  
 - Contributed to growth hacking initiatives and automated content scraping  
 
----
+***
 
 ### EasyMedStat — *Data Researcher Intern*  
 **May 2023 – Aug 2023**  
