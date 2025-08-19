@@ -16,7 +16,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
-## 🧠 My Tech Stack
+## 💻 My Tech Stack
 
 **Languages:** Python, SQL, NoSQL, Java, C, HTML/CSS, MATLAB, DAX  
 
