@@ -68,7 +68,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
-## 💼 My Experiences
+## 💼 My Experience
 
 ### JEC — *Co-founder & CTO*  
 **Feb 2024 – Present**  
