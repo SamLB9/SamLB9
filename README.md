@@ -22,8 +22,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ---
 
-## 🌟 Featured Projects
-*(listed from newest to oldest)*  
+## 🌟 Featured Projects *(listed from newest to oldest)*  
 
 - 🤖 [AI-EDA Agent – Autonomous Data Analysis](https://github.com/SamLB9/ai-eda-agent): An intelligent agent that performs complete Exploratory Data Analysis automatically in ~2min. Powered by OpenAI's GPT-5, it generates insights, visualizations, and statistical analysis with zero manual intervention. Features include pre-loaded demo datasets (Spotify, Titanic, Video Game Sales), smart visualizations, comprehensive statistical insights, and sandboxed code execution for safety. The system uses LLM-generated Python code executed in a controlled environment, making advanced data analysis accessible to users of all skill levels.
 - 🧑‍🏫 [Study Coach — Streamlit Q&A App](https://github.com/SamLB9/Student_Coach_Q-A): An LLM-powered RAG app with agent-like behaviors that ingests your notes (PDF/TXT/MD), retrieves relevant context, and autonomously generates adaptive quizzes with MCQs and short answers. It grades responses with structured feedback (immediate or end-of-quiz), tracks per-question attempts (including time-to-answer), and leverages memory to avoid repeating past prompts while adapting difficulty based on historical accuracy. A progress dashboard summarizes sessions and highlights frequently missed questions, and the CLI offers the same workflow from the terminal.
