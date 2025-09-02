@@ -37,15 +37,15 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 
 ## 💻 My Tech Stack
 
-**Languages:** Python, SQL, NoSQL, Java, C, HTML/CSS, MATLAB, DAX
-**Frameworks & APIs:** REST (FastAPI / Flask), Streamlit, Docker
-**LLMs & GenAI**: OpenAI API (GPT-5 series), LangChain, RAG workflows, Hugging Face (Transformers, Datasets)
-**Vector Search & Embeddings**: Chroma (langchain-chroma), OpenAI Embeddings
-**Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-Learn, UMAP, imbalanced-learn  
-**Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, SciPy  
-**Computer Vision & Signal Processing:** OpenCV, scikit-image, Pillow, PyWavelets  
-**Databases & ORM:** PostgreSQL, MySQL, SQLite, MongoDB, SQLAlchemy  
-**Developer Tools & Cloud:** Git, GitHub, AWS, Google Cloud SDK, Azure, VS Code, Cursor, Jupyter Notebook
+- **Languages:** Python, SQL, NoSQL, Java, C, HTML/CSS, MATLAB, DAX
+- **Frameworks & APIs:** REST (FastAPI / Flask), Streamlit, Docker
+- **LLMs & GenAI**: OpenAI API (GPT-5 series), LangChain, RAG workflows, Hugging Face (Transformers, Datasets)
+- **Vector Search & Embeddings**: Chroma (langchain-chroma), OpenAI Embeddings
+- **Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-Learn, UMAP, imbalanced-learn
+- **Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, SciPy
+- **Computer Vision & Signal Processing:** OpenCV, scikit-image, Pillow, PyWavelets
+- **Databases & ORM:** PostgreSQL, MySQL, SQLite, MongoDB, SQLAlchemy
+- **Developer Tools & Cloud:** Git, GitHub, AWS, Google Cloud SDK, Azure, VS Code, Cursor, Jupyter Notebook
 
 ---
 
