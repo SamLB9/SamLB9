@@ -72,9 +72,15 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 ---
 
 ## 💼 My Experience
+### Motormia — *AI Engineer* Remote (US-based) 
+**2025 – Present**
+*AI-powered app that helps car owners plan and visualize vehicle modifications.*
 
-### JEC — *Co-founder & CTO*  
-**Feb 2024 – Present**  
+- Shipped ecommerce release that drove profitability: fitment accuracy **66% → 97%**, **2.5%** Add-a-Mod→Purchase CVR, **5%** Cart→Purchase CVR.  
+- Scaled the vehicle catalog  **+300%** using a DSPy-based AI workflow, making it one of the largest in the world.  
+
+### JEC — *AI Lead*  
+**2024 – 2025**  
 *A student–expert matching platform delivering premium consulting services for SMEs*  
 
 - Designed business plan, launched a full-stack consulting platform, and managed the developer team  
@@ -82,7 +88,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Oversaw 12+ consulting missions with student consultants and expert mentors  
 
 ### Juno Journey — *AI Engineer Intern*  
-**Aug 2023 – Jan 2024**  
+**2023 – 2024**  
 *Startup developing AI-driven platforms for employee growth and learning*  
 
 - Built a hybrid recommendation system for personalized learning pathways  
@@ -90,14 +96,14 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Contributed to growth hacking initiatives and automated content scraping  
 
 ### EasyMedStat — *Data Researcher Intern*  
-**May 2023 – Aug 2023**  
+**2023 – 2023**  
 *French healthtech startup providing statistical solutions for clinical research*  
 
 - Researched and benchmarked [imputation strategies, ML models](https://github.com/SamLB9/EMS_research_imputation-models), and [explainability techniques](https://github.com/SamLB9/AI_Explainability)  
 - Provided insights to enhance the platform’s data reliability and transparency  
 
 ### Revelator — *Data Analyst Intern*  
-**May 2021 – Aug 2021**  
+**2021 – 2021**  
 *US-based music tech company offering analytics and business tools for labels and artists*  
 
 - Built interactive Power BI dashboards to monitor key business KPIs  
