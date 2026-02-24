@@ -102,7 +102,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Researched **DL imputation** (DAE, VAE, GAIN) and ML baselines; delivered **2 benchmarked reports** showing **10–25\% error reduction**.
 - Investigated **feature correlations and missing-data patterns** mixed clinical datasets (**tabular + imaging**), cutting processing time by **40%**.
 
-### Revelator (ILS) — *Data Analyst Intern*  
+### Revelator (ILS) — *Data Analyst*  
 **2021 – 2021**  
 *US-based music tech company offering analytics and business tools for labels and artists*  
 
