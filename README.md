@@ -72,37 +72,37 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 ---
 
 ## 💼 My Experience
-### Motormia — *AI Engineer* Remote (US-based) 
+### Motormia (US-based) — *AI Engineer* (Remote)
 **2025 – Present**
 *AI-powered app that helps car owners plan and visualize vehicle modifications.*
 
 - Shipped ecommerce release that drove profitability: fitment accuracy **66% → 97%**, **2.5%** Add-a-Mod→Purchase CVR, **5%** Cart→Purchase CVR.  
-- Scaled the vehicle catalog  **+300%** using a DSPy-based AI workflow, making it one of the largest in the world.  
+- Scaled the vehicle catalog  **+300%** using a DSPy-based AI workflow, making it one of the largest in the world.
 
-### JEC — *AI Lead*  
+### JEC (FR) — *AI Lead*  
 **2024 – 2025**  
-*A student–expert matching platform delivering premium consulting services for SMEs*  
+*Student-expert matching platform offering consulting services for companies.*  
 
-- Designed business plan, launched a full-stack consulting platform, and managed the developer team  
-- Pitched JEC at SME congress and secured partnerships  
-- Oversaw 12+ consulting missions with student consultants and expert mentors  
+- Designed and deployed an **AI matching engine** improving matching speed by **90%** and raising fit satisfaction from **~72% → 91%**.
+- Owned end-to-end **ML/LLM system design** (FastAPI, PostgreSQL, Docker, CI/CD), achieving **p95 < 200ms** and **99.5% uptime**.
+- Led **3 FE devs + 1 UX** and partnered with **2 mentors** to deliver releases.
 
-### Juno Journey — *AI Engineer Intern*  
+### Juno Journey (ILS) — *AI Engineer Intern*  
 **2023 – 2024**  
 *Startup developing AI-driven platforms for employee growth and learning*  
 
-- Built a hybrid recommendation system for personalized learning pathways  
-- Developed NLP-based translation tools to support multilingual content  
-- Contributed to growth hacking initiatives and automated content scraping  
+- Built multilingual **Transformer pipelines** (MarianMT, NLLB) and **hybrid recommendation systems** powering **100k+ monthly users**.
+- Optimised semantic search, boosting **R@10 by 12%** and reducing latency by **35%** through batching, caching, and pre-computation.
+- Collaborated with **3 DS + 2 PMs** to align models to product goals.
 
-### EasyMedStat — *Data Researcher Intern*  
+### EasyMedStat (FR) — *Data Researcher Intern*  
 **2023 – 2023**  
 *French healthtech startup providing statistical solutions for clinical research*  
 
-- Researched and benchmarked [imputation strategies, ML models](https://github.com/SamLB9/EMS_research_imputation-models), and [explainability techniques](https://github.com/SamLB9/AI_Explainability)  
-- Provided insights to enhance the platform’s data reliability and transparency  
+- Researched **DL imputation** (DAE, VAE, GAIN) and ML baselines; delivered **2 benchmarked reports** showing **10–25\% error reduction**.
+- Investigated **feature correlations and missing-data patterns** mixed clinical datasets (**tabular + imaging**), cutting processing time by **40%**.
 
-### Revelator — *Data Analyst Intern*  
+### Revelator (ILS) — *Data Analyst Intern*  
 **2021 – 2021**  
 *US-based music tech company offering analytics and business tools for labels and artists*  
 
