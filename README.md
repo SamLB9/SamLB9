@@ -77,7 +77,7 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 *AI-powered app that helps car owners plan and visualize vehicle modifications.*
 
 - Shipped ecommerce release that drove profitability: fitment accuracy **66% → 97%**, **2.5%** Add-a-Mod→Purchase CVR, **5%** Cart→Purchase CVR.  
-- Scaled the vehicle catalog  **+300%** using a DSPy-based AI workflow, making it one of the largest in the world.
+- Scaled the vehicle catalog coverage **3x** by shipping a DSPy-driven extraction + normalization workflow, reducing manual curation and expanding supported fitments.
 
 ### JEC (FR) — *AI Lead*  
 **2024 – 2025**  
@@ -87,15 +87,15 @@ AI enthusiast, data scientist, and startup co-founder with hands-on experience i
 - Owned end-to-end **ML/LLM system design** (FastAPI, PostgreSQL, Docker, CI/CD), achieving **p95 < 200ms** and **99.5% uptime**.
 - Led **3 FE devs + 1 UX** and partnered with **2 mentors** to deliver releases.
 
-### Juno Journey (ILS) — *AI Engineer Intern*  
+### Juno Journey (ILS) — *AI Engineer*  
 **2023 – 2024**  
 *Startup developing AI-driven platforms for employee growth and learning*  
 
-- Built multilingual **Transformer pipelines** (MarianMT, NLLB) and **hybrid recommendation systems** powering **100k+ monthly users**.
+- Built multilingual **Transformer pipelines** (MarianMT, NLLB) and **hybrid recommendation systems** powering **100k+ MAU**.
 - Optimised semantic search, boosting **R@10 by 12%** and reducing latency by **35%** through batching, caching, and pre-computation.
 - Collaborated with **3 DS + 2 PMs** to align models to product goals.
 
-### EasyMedStat (FR) — *Data Researcher Intern*  
+### EasyMedStat (FR) — *AI Researcher*  
 **2023 – 2023**  
 *French healthtech startup providing statistical solutions for clinical research*  
 
